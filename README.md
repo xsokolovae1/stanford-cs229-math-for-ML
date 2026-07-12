@@ -12,9 +12,7 @@ Andrew Ng and the CS229 teaching staff. It covers statistical pattern recognitio
 
 Each notebook here derives the math for one topic by hand (in LaTeX,
 alongside the reasoning) and implements it in NumPy without relying on
-`scikit-learn` or other ML libraries for the core algorithm — those are
-used only afterward, to sanity-check that the from-scratch implementation
-produces the same results.
+`scikit-learn` or other ML libraries for the core algorithms.
 
 ## Topics covered
 
@@ -26,5 +24,3 @@ produces the same results.
 - Unsupervised learning — k-means, Gaussian mixture models, the EM
   algorithm, PCA, ICA
 - Reinforcement learning and control — MDPs, value/policy iteration, LQR
-
-## Structure
